@@ -1,0 +1,8 @@
+ribosome.jpg
+mitochondria.jpeg
+Lysosome.jpeg
+GolgiApparatus.jpeg
+SmoothER.jpeg
+RoughER.jpeg
+Nucleus.jpeg
+CellMembrane.jpeg
